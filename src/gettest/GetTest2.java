@@ -9,7 +9,7 @@ package gettest;
  *
  * @author ltrinastic
  */
-public class GetTest {
+public class GetTest2 {
 
     /**
      * @param args the command line arguments
